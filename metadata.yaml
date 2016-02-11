@@ -1,0 +1,30 @@
+_repo: Teatro-Futurista-Sintetico_50697
+creator:
+  authors:
+  - agent_name: Settimelli, Emilio
+    gutenberg_agent_id: '46050'
+    url: http://www.gutenberg.org/2009/agents/46050
+  - agent_name: Marinetti, F. T.
+    alias: Marinetti, Filippo Tommaso
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '7634'
+    url: http://www.gutenberg.org/2009/agents/7634
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
+    - http://it.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
+  - agent_name: Corra, Bruno
+    gutenberg_agent_id: '45053'
+    url: http://www.gutenberg.org/2009/agents/45053
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2015-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50697'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Teatro Futurista Sintetico
+url: http://www.gutenberg.org/ebooks/50697
