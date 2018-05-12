@@ -1,4 +1,8 @@
 _repo: Teatro-Futurista-Sintetico_50697
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50697-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Settimelli, Emilio
@@ -17,6 +21,8 @@ creator:
     gutenberg_agent_id: '45053'
     url: http://www.gutenberg.org/2009/agents/45053
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50697#Teatro-Futurista-Sintetico
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2015-12-15'
 gutenberg_type: Text
